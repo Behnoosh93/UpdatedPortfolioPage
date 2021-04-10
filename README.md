@@ -18,18 +18,18 @@ Submit an updated LinkedIn profile
 
 The following animation shows the web application's appearance and functionality:
 
-![portfolio demo](./asstes/images/)
+![UpdatedPortfolioPage demo](./assets/images/capture_1.jpeg)
 
 
 ### Deployment: 
 
 * Application deployed at live URL.
 
-[Click here to go to deployed application.](https://behnoosh93.github.io/Professional-Portfolio/ )
+[Click here to go to deployed application.](https://behnoosh93.github.io/UpdatedPortfolioPage/ )
 
 
 * Application GitHub URL submitted.
 
-[Click here to go to deployed application.](https://github.com/Behnoosh93/Professional-Portfolio.git)
+[Click here to go to deployed application.](https://github.com/Behnoosh93/UpdatedPortfolioPage)
 
 
