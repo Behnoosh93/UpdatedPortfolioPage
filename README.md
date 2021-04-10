@@ -19,6 +19,9 @@ Submit an updated LinkedIn profile
 The following animation shows the web application's appearance and functionality:
 
 ![UpdatedPortfolioPage demo](./assets/images/capture_1.jpeg)
+![UpdatedPortfolioPage demo](./assets/images/capture_2.jpeg)
+![UpdatedPortfolioPage demo](./assets/images/capture_3.jpeg)
+
 
 
 ### Deployment: 
